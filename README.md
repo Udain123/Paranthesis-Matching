@@ -1,6 +1,6 @@
 # Paranthesis-Matching
 
-# Using Stack
+## Using Stack
 
 #include <iostream>
 #include<string.h>
